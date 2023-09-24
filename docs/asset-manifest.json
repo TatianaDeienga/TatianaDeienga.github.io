@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1690edff.css",
+    "main.js": "/static/js/main.71867b26.js",
+    "static/js/787.606ec1d7.chunk.js": "/static/js/787.606ec1d7.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.8935dfd17f58f564d3d4.jpg",
+    "static/media/Background.png": "/static/media/Background.e182deabc2fd150df6c0.png",
+    "static/media/City.png": "/static/media/City.caaefaabe350079739e2.png",
+    "static/media/tech.png": "/static/media/tech.b44f491ede2db08a1a6d.png",
+    "static/media/IoTMelbourne.jpg": "/static/media/IoTMelbourne.570d6e3f36402b55c530.jpg",
+    "static/media/device.jpg": "/static/media/device.6d08ae7fa7b080f05798.jpg",
+    "static/media/EV.png": "/static/media/EV.b2bddacbd271944f0857.png",
+    "static/media/mop.png": "/static/media/mop.1096e54e2d06bedf6136.png",
+    "static/media/linkedin.png": "/static/media/linkedin.ffe9ad9e36324ff19f7b.png",
+    "static/media/connected.png": "/static/media/connected.43a13c2853b7ff8bbe8c.png",
+    "static/media/profile.jpg": "/static/media/profile.a257f69a69339130a91b.jpg",
+    "static/media/EV.jpeg": "/static/media/EV.26e2ec956b7c62032e11.jpeg",
+    "static/media/deakin.png": "/static/media/deakin.1d0f8a04a4e1d95be79c.png",
+    "static/media/cham.png": "/static/media/cham.6eb3e3b65593d8dfc176.png",
+    "static/media/ev.png": "/static/media/ev.e83ab40a5e526f6cafc5.png",
+    "static/media/ChameleonLogo.png": "/static/media/ChameleonLogo.cd6d15b73761d85c7a2e.png",
+    "static/media/chat.png": "/static/media/chat.8e5f9e4d108e5b7b5a51.png",
+    "static/media/Chameleon_Logo.png": "/static/media/Chameleon_Logo.360ea096c56d38bf1314.png",
+    "static/media/White_Logo.png": "/static/media/White_Logo.360ea096c56d38bf1314.png",
+    "static/media/Logo_No_Background.png": "/static/media/Logo_No_Background.54b79a5e5f3cebd368aa.png",
+    "static/media/phone.png": "/static/media/phone.3f3ddabf79b4b00f1638.png",
+    "static/media/partner.png": "/static/media/partner.39728edd20afdad6d43f.png",
+    "static/media/logo.png": "/static/media/logo.16cb03a9a5ccf4ebaccc.png",
+    "static/media/environment.png": "/static/media/environment.96e1bce5fc460ae0370a.png",
+    "static/media/google.png": "/static/media/google.0b50af2fbb8c1e8ca23e.png",
+    "static/media/email.png": "/static/media/email.8393a68cde5d5ff3471a.png",
+    "static/media/support.png": "/static/media/support.92629a8f2489c1b5802e.png",
+    "static/media/MicrosoftTeams-image (3).png": "/static/media/MicrosoftTeams-image (3).7f5e580f3e4b24055650.png",
+    "index.html": "/index.html",
+    "main.1690edff.css.map": "/static/css/main.1690edff.css.map",
+    "main.71867b26.js.map": "/static/js/main.71867b26.js.map",
+    "787.606ec1d7.chunk.js.map": "/static/js/787.606ec1d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1690edff.css",
+    "static/js/main.71867b26.js"
+  ]
+}
